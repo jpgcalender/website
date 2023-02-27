@@ -9,31 +9,30 @@ body {
 }
 
 h1{
-    font-family: 'Sacramento', cursive;
+  font-family: 'Oswald', sans-serif;
     color: #F5F5DC;
 
 }
 
 h2 {
-font-family: 'Poppins', sans-serif;
+font-family: 'Playfair Display', serif;
   text-align: center;
   margin-top: 2em;
   color: #05386B;
 }
 
 h3{
-font-family: 'Poppins', sans-serif;
+font-family: 'Playfair Display', serif;
   color: #05386B;
 }
 
 h5{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
   color: #05386B;
 }
 
 p{
-    font-family: 'Montserrat', sans-serif;
-
+  font-family: 'Alata', sans-serif;
   color: #05386B
 }
 
